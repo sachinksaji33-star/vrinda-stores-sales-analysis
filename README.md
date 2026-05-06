@@ -20,7 +20,7 @@ The goal is to identify key sales trends, customer behavior, and business insigh
 
 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard.png)
 
 ---
 

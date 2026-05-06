@@ -20,7 +20,7 @@ The goal is to identify key sales trends, customer behavior, and business insigh
 
 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/sachinksaji33-star/vrinda-stores-sales-analysis/blob/main/dashboard_preview.png)
 
 ---
 
